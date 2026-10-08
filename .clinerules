@@ -1,0 +1,15 @@
+# fairfektus
+
+Dieses Repo gehört fairfektus81. Antworte auf Deutsch, kurz und direkt.
+
+## Modell
+
+Bevorzuge xAI Grok über den API-Provider "xAI" in Cline.
+API-Schlüssel kommen von https://console.x.ai/ und werden nie ins Repo geschrieben.
+
+## Arbeitsweise
+
+- Ändere nur, was die Aufgabe braucht.
+- Keine Secrets, Tokens oder Schlüssel committen.
+- Vor dem Abschluss prüfen, dass der Code läuft.
+- Commit-Nachrichten auf Deutsch, im Imperativ, ein Satz.
