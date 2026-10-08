@@ -1,14 +1,20 @@
-# fairfektus
+# Piste Board
 
-Repository von fairfektus81.
+Snowboard-Downhill durch Eiswelle, Kanäle und Berg. Eine Runde dauert etwa drei Minuten.
 
-## Cline
+Das Spiel liegt im Ordner **spiel**, nicht unter Projekte.
 
-Cline ist eine Erweiterung für VS Code, kein Paket in diesem Repo. Beim Öffnen des Ordners schlägt VS Code die Installation vor.
+## In der GitHub-App finden
 
-1. Repo klonen und den Ordner in VS Code öffnen.
-2. Wenn die Empfehlung erscheint: **Cline** installieren (`saoudrizwan.claude-dev`). Sonst in den Erweiterungen nach Cline suchen.
-3. Im Cline-Zahnrad den Provider **xAI** wählen und den Schlüssel von https://console.x.ai/ einfügen.
-4. Ein Grok-Modell auswählen.
+1. Startseite
+2. Top-Repositorys
+3. **fairfektus**
+4. Ordner **spiel**
 
-Projektrichtlinien stehen in `.clinerules` und werden von Cline automatisch gelesen.
+## Lokal öffnen
+
+Im Ordner `spiel` einen kleinen Webserver starten und `index.html` öffnen. Three.js kommt dabei aus dem Netz.
+
+Steuerung: links lenken, oben schneller, unten bremsen. In der Luft rechts Cork, Rodeo, Indy und 180. Mit einer gedrückten Fahr-Richtung werden daraus 540, Method oder 360.
+
+Tastatur: A und D lenken, W schneller, S bremsen. Tricks: J L I K.
